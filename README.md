@@ -1,1 +1,1 @@
-# ArcoLinux-config-dconf for this desktop/iso
+# ArcoLinux-plasma-dconf for this desktop/iso
